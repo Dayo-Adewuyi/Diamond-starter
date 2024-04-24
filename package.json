@@ -3,6 +3,10 @@
   "version": "1.0.14",
   "description": "starter for EIP 2535",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dayo-Adewuyi/diamond-starter.git"
+  },
   "bin": {
     "diamond-starter": "./index.js"
   },
